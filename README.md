@@ -5,9 +5,13 @@ Brotli 是一个通用的无损压缩算法，它使用了 LZ77 算法的现代�
 这个项目由 Google 开发，并开源在 GitHub，项目的 [GitHub地址](https://github.com/google/brotli)。
 
 关于 Brotli，还有如下这样一些 link：
+
 [Google 宣布新开源压缩算法 Brotli](https://www.oschina.net/news/66452/google-brotli)
+
 [Google 實習生立大功！每天為 Android 用戶省下 1.5PB 資料傳輸量](https://technews.tw/2017/02/08/intern-impact-brotli-compression-for-play-store-app-downloads/)
+
 [谷歌开源Brotli无损压缩算法，可提高浏览器性能](http://www.ctocio.com/ccnews/19142.html)
+
 [Brotli —— 下一代的 HTTP 服务器压缩](https://coyee.com/article/11281-next-generation-server-compression-with-brotli)
 
 Brotli 被认为是 Web 的下一代压缩算法。
